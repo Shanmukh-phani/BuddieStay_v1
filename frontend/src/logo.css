@@ -1,0 +1,23 @@
+.logo-container {
+    background-color: #244843;
+    color: #F48A23;
+    /* font-family: 'Poppins', sans-serif;  */
+    font-size: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .stay, .buddie {
+    /* font-family: 'Cursive','Brush Script MT'; */
+    font-weight:100;
+    font-style:normal;
+  }
+
+  .home-icon {
+    color: white;
+    font-size: 45px;
+    margin: 0 4px;
+  }
+  
